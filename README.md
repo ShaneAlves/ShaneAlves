@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shane Alves!</h1>
 <h3 align="center">👩‍💻Cybersecurity Development Projects:</h3>
 
-- • **https://github.com/ShaneAlves/Saas-Tech-Start-Up-IAM**
+-  **https://github.com/ShaneAlves/Saas-Tech-Start-Up-IAM**
 
-- • **https://github.com/ShaneAlves/Microsoft-Sentinel-SIEM-Homelab**
+-  **https://github.com/ShaneAlves/Microsoft-Sentinel-SIEM-Homelab**
 
-- • **https://github.com/ShaneAlves/Active-Directory-Lab**
+-  **https://github.com/ShaneAlves/Active-Directory-Lab**
 
-- • **https://github.com/ShaneAlves/Vulnerability-Management**
+-  **https://github.com/ShaneAlves/Vulnerability-Management**
 
-- • **https://github.com/ShaneAlves/Github-File-Configuration**
+-  **https://github.com/ShaneAlves/Github-File-Configuration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
