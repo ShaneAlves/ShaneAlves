@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shane Alves!</h1>
+<h3 align="center">👩‍💻Cybersecurity Development Projects:</h3>
 
-<!--
-**ShaneAlves/ShaneAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- • **https://github.com/ShaneAlves/Saas-Tech-Start-Up-IAM**
 
-Here are some ideas to get you started:
+- • **https://github.com/ShaneAlves/Microsoft-Sentinel-SIEM-Homelab**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- • **https://github.com/ShaneAlves/Active-Directory-Lab**
+
+- • **https://github.com/ShaneAlves/Vulnerability-Management**
+
+- • **https://github.com/ShaneAlves/Github-File-Configuration**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/shane-alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shane-alves" height="30" width="40" /></a>
+</p>
